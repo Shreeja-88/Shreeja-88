@@ -34,10 +34,10 @@
   <a href="mailto:hebbarshree855@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/shreejahebbar676/">
+  <a href="https://www.linkedin.com/in/shreejahebbar676/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.pinterest.com/https://in.pinterest.com/hebbarshree855/_profile/">
+  <a href="https://www.pinterest.com/hebbarshree855/_profile/">
     <img src="https://img.shields.io/badge/Pinterest-%23BD081C.svg?style=for-the-badge&logo=pinterest&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/_hebbar_shree.ja_3">
