@@ -68,6 +68,12 @@
 
 ---
 
+### 📝 Languages I Code In
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
+
+---
 <p align="center">⭐ Crafting code with clarity and consistency. ⭐</p>
 
 
