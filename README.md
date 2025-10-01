@@ -29,6 +29,7 @@
 
 ### 💻 Tools & Platforms
 <p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
@@ -56,6 +57,9 @@
   </a>
   <a href="mailto:hebbarshree855@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" width="50" height="50"/>
+  </a>
+  <a href="https://leetcode.com/ShreejaHebbar676" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="50" height="50"/>
   </a>
   <a href="https://github.com/Shreeja-88" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
