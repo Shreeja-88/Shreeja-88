@@ -18,8 +18,8 @@
 ### 🛠 Tech Stack
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" alt="Spring Boot" width="55" height="55"/>
   <img src="https://streamlit.io/images/brand/streamlit-mark-color.png" alt="Streamlit" width="55" height="55"/>
@@ -27,11 +27,11 @@
 
 ---
 
-### 💻 Tools & Platforms
+### Tools & Platforms 💻 
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="55" height="55"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55"/>
@@ -40,7 +40,7 @@
 
 ---
 
-### 🌟 Core Skills
+### Core Skills 🌟
 - 🔹 Problem Solving & DSA  
 - 🔹 Backend Development (Java, Spring Boot, SQL)  
 - 🔹 API Development & Integration  
@@ -50,7 +50,7 @@
 
 ---
 
-### 📫 Connect With Me
+### Connect With Me 📫 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreejahebbar676" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
@@ -68,7 +68,7 @@
 
 ---
 
-<p align="center">⭐ *"Crafting code with clarity and consistency."* ⭐</p>
+<p align="center">⭐ Crafting code with clarity and consistency. ⭐</p>
 
 
 
