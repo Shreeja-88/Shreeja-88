@@ -1,6 +1,6 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm Shreeja 👩‍💻</h1>
+<h1 align="center">Hi, I'm Shreeja Hebbar 👩‍💻</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;DSA+Enthusiast;System+Design+Learner;Code+⚡+Debug+⚡+Repeat" alt="Typing SVG" />
@@ -9,7 +9,7 @@
 ---
 
 ### About Me 👩‍💻 
-- 🎓 Computer Science Engineering student, passionate about **backend development**  
+- 🎓 A Second-Year Computer Science Engineering student, passionate about **backend development**  
 - 🛠 Actively learning **system design** and improving problem-solving with **DSA**  
 - 🚀 Exploring frameworks, building projects, and aiming for impactful opportunities.  
 
