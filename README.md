@@ -1,21 +1,15 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm Shreeja Hebbar 👩‍💻</h1>
+<h1 align="center">Hi, I'm Shreeja Hebbar! </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=600&lines=Backend+Developer+in+Progress;DSA+Enthusiast;System+Design+Learner;Code+⚡+Debug+⚡+Repeat" alt="Typing SVG" />
-</p>
-
----
-
-### About Me 👩‍💻 
-- A Second-Year Computer Science Engineering student, passionate about **backend development** 🎓 
-- Actively learning **system design** and improving problem-solving with **DSA** 🛠 
-- Exploring frameworks, building projects, and aiming for impactful opportunities. 🚀  
+### About Me: 
+- A Second-Year Computer Science Engineering student, passionate about **backend development** 
+- Actively learning **system design** and improving problem-solving with **DSA** 
+- Exploring frameworks, building projects, and aiming for impactful opportunities.
 
 ---
 
-### Tech Stack 🛠 
+### Tech Stack: 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
@@ -27,7 +21,7 @@
 
 ---
 
-### Tools & Platforms 💻 
+### Tools & Platforms:
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="Windows" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="55" height="55"/>
@@ -40,7 +34,7 @@
 
 ---
 
-### Core Skills 🌟
+### Core Skills:
 - Problem Solving & DSA  
 - Backend Development (Java, Spring Boot, SQL)  
 - API Development & Integration  
@@ -50,7 +44,7 @@
 
 ---
 
-### Connect With Me 📫 
+### Connect With Me: 
 <p align="center">
   <a href="https://www.linkedin.com/in/shreejahebbar676" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
@@ -75,9 +69,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Shreeja-88&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
-
-<p align="center">⭐ Where logic meets creativity! ⭐</p>
-
-
-
-
