@@ -9,13 +9,13 @@
 ---
 
 ### About Me 👩‍💻 
-- 🎓 A Second-Year Computer Science Engineering student, passionate about **backend development**  
-- 🛠 Actively learning **system design** and improving problem-solving with **DSA**  
-- 🚀 Exploring frameworks, building projects, and aiming for impactful opportunities.  
+- A Second-Year Computer Science Engineering student, passionate about **backend development** 🎓 
+- Actively learning **system design** and improving problem-solving with **DSA** 🛠 
+- Exploring frameworks, building projects, and aiming for impactful opportunities. 🚀  
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack 🛠 
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
@@ -41,12 +41,12 @@
 ---
 
 ### Core Skills 🌟
-- 🔹 Problem Solving & DSA  
-- 🔹 Backend Development (Java, Spring Boot, SQL)  
-- 🔹 API Development & Integration  
-- 🔹 System Design Basics  
-- 🔹 Debugging & Code Optimization  
-- 🔹 Collaboration with Git/GitHub  
+- Problem Solving & DSA  
+- Backend Development (Java, Spring Boot, SQL)  
+- API Development & Integration  
+- System Design Basics  
+- Debugging & Code Optimization  
+- Collaboration with Git/GitHub  
 
 ---
 
@@ -68,13 +68,15 @@
 
 ---
 
-### 📝 Languages I Code In
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
----
-<p align="center">⭐ Crafting code with clarity and consistency. ⭐</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shreeja-88&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">⭐ Where logic meets creativity! ⭐</p>
 
 
 
