@@ -90,9 +90,20 @@
 ---
 
 <p align="center">
-  <!-- Hacktoberfest Contribution (if any) -->
-  <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=flat-square" alt="Hacktoberfest 2025"/>
    <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Shreeja-88&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
