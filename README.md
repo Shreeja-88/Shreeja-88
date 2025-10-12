@@ -43,6 +43,27 @@
 - Collaboration with Git/GitHub  
 
 ---
+<!-- GitHub Badges Section -->
+
+### GitHub Badges & Stats
+<p align="center">
+ 
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreeja-88&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  <!-- Streak Stats -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Shreeja-88&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreeja-88&theme=tokyonight&margin-w=15&column=4&rank=SSS,SS,S,AA,A,B" alt="GitHub Achievements" />
+
+   <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  
+
+</p>
+
+---
 
 ### Connect With Me: 
 <p align="center">
@@ -69,9 +90,9 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+  <!-- Hacktoberfest Contribution (if any) -->
+  <img src="https://img.shields.io/badge/Hacktoberfest-2025-orange?style=flat-square" alt="Hacktoberfest 2025"/>
+   <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=Shreeja-88&label=Profile%20Views&color=blue&style=flat" alt="Profile Views" />
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Shreeja-88&label=Profile%20Views&color=blue&style=flat" alt="Profile Views"/>
 </p>
