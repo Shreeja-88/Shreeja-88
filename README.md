@@ -58,6 +58,8 @@
  
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=Shreeja-88&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+
+  [![An image of @shreeja88's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreeja88)](https://holopin.io/@shreeja88)
   
 
 </p>
