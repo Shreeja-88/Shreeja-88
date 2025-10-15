@@ -1,6 +1,6 @@
 <!-- Profile README -->
-
 <h1 align="center">Hi, I'm Shreeja Hebbar! </h1>
+
 
 ### About Me: 
 - A Second-Year Computer Science Engineering student, passionate about **backend development** 
@@ -44,25 +44,22 @@
 
 ---
 <!-- GitHub Badges Section -->
-
-### GitHub Badges & Stats
+### GitHub Stats & Badges
 <p align="center">
-
-  
-  <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreeja-88&theme=tokyonight&margin-w=15&column=4&rank=SSS,SS,S,AA,A,B" alt="GitHub Achievements" />
-
-   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-  
- 
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreeja-88&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-
-  [![An image of @shreeja88's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shreeja88)](https://holopin.io/@shreeja88)
-  
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Shreeja-88&theme=tokyonight&margin-w=15&column=4&rank=SSS,SS,S,AA,A,B" alt="GitHub Trophies" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Shreeja-88&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+</p>
+
+<p align="center">
+  <a href="https://holopin.io/@shreeja88">
+    <img src="https://holopin.me/shreeja88" alt="Holopin Badges" width="70%"/>
+  </a>
+</p>
+
 
 ---
 
@@ -96,15 +93,4 @@
 
 </p>
 
-
-
-
-
-
-
-
-
-
-
-
-
+---
