@@ -1,5 +1,5 @@
 <!-- Profile README -->
-<h1 align="center">Hi, I'm Shreeja Hebbar! </h1>
+<h1 align="center">Hi, I am Shreeja Hebbar! </h1>
 
 
 ### About Me: 
