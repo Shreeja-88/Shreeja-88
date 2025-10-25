@@ -45,9 +45,6 @@
 ---
 <!-- GitHub Badges Section -->
 ### GitHub Stats & Badges
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Shreeja-88&theme=tokyonight&margin-w=15&column=4&rank=SSS,SS,S,AA,A,B" alt="GitHub Trophies" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Shreeja-88&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
