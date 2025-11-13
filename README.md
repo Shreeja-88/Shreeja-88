@@ -55,15 +55,23 @@
 ---
 
 ### AI & Productivity Tools
+<!-- AI & Productivity Tools — shield badges (reliable + colored) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="ChatGPT" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlegemini.svg" alt="Google Gemini" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/notion.svg" alt="Notion AI" width="45" height="45"/>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/githubcopilot.svg" alt="GitHub Copilot" width="45" height="45"/>
+  <img src="https://img.shields.io/badge/-ChatGPT-111?logo=openai&logoColor=white&style=for-the-badge" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/-Google%20Gemini-111?logo=google&logoColor=white&style=for-the-badge" alt="Google Gemini"/>
+  <img src="https://img.shields.io/badge/-Notion-111?logo=notion&logoColor=white&style=for-the-badge" alt="Notion"/>
+  <img src="https://img.shields.io/badge/-GitHub%20Copilot-111?logo=github&logoColor=white&style=for-the-badge" alt="GitHub Copilot"/>
+  <img src="https://img.shields.io/badge/-Claude-111?logo=anthropic&logoColor=white&style=for-the-badge" alt="Claude (Anthropic)"/>
+  <img src="https://img.shields.io/badge/-Midjourney-111?logo=midjourney&logoColor=white&style=for-the-badge" alt="Midjourney"/>
+  <img src="https://img.shields.io/badge/-Microsoft%20Copilot-111?logo=microsoft&logoColor=white&style=for-the-badge" alt="Microsoft Copilot"/>
+  <img src="https://img.shields.io/badge/-HuggingFace-111?logo=huggingface&logoColor=white&style=for-the-badge" alt="HuggingFace"/>
+  <img src="https://img.shields.io/badge/-Perplexity-111?logo=perplexity&logoColor=white&style=for-the-badge" alt="Perplexity"/>
+  <img src="https://img.shields.io/badge/-Cursor-111?logo=cursor&logoColor=white&style=for-the-badge" alt="Cursor"/>
+  <img src="https://img.shields.io/badge/-Replit-111?logo=replit&logoColor=white&style=for-the-badge" alt="Replit"/>
 </p>
 
----
 
+---
 
 ### Core Skills
 - Backend Development: **Java, Spring Boot, Django, REST APIs**  
