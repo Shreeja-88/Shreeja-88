@@ -87,7 +87,6 @@
 
 ### GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shreeja-88&show_icons=true&theme=tokyonight&hide_border=true" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
 </p>
 
