@@ -86,14 +86,21 @@
 ---
 
 ### GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&theme=tokyonight&hide_border=true" height="160px"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&hide_border=true&theme=tokyonight" height="170px"/>
 </p>
 
 <p align="center">
   <a href="https://holopin.io/@shreeja88">
     <img src="https://holopin.me/shreeja88" alt="Holopin Badges" width="70%"/>
   </a>
+</p>
+
+
+<!-- Animated Contribution Snake -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
