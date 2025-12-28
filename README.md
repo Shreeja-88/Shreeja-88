@@ -1,5 +1,10 @@
 <!-- Profile README -->
+<h>
+![Profile Picture](profile.png)
+</h>
+
 <h1 align="center">Hi, I'm Shreeja Hebbar</h1>
+
 
 <p align="center">
   Passionate <strong>Backend Developer</strong> | Aspiring <strong>Software Engineer</strong> | <strong>Computer Science Student</strong>
