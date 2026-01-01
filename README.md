@@ -9,7 +9,7 @@
 
 
 <p align="center">
-  Passionate <strong>Backend Developer</strong> | Aspiring <strong>Software Engineer</strong> | <strong>Computer Science Student</strong>
+   Aspiring <strong>Software Engineer</strong> | <strong>Computer Science Student</strong>
 </p>
 
 ---
