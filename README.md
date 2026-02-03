@@ -1,10 +1,5 @@
 <!-- Profile README -->
 
-<p align="center">
-  <img src="profile.jpeg" width="300" />
-</p>
-
-
 <h1 align="center">Hi, I'm Shreeja Hebbar</h1>
 
 
