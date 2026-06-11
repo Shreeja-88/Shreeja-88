@@ -1,78 +1,99 @@
 <!-- Profile README -->
 
 <h1 align="center">Hi, I'm Shreeja Hebbar 👋</h1>
-
 <p align="center">
-   Aspiring <strong>Software Engineer</strong> | <strong>UI/UX & Product Designer</strong>
+   Aspiring <strong>Software Engineer</strong> | <strong>Full Stack Developer</strong>
 </p>
 
 <p align="center">
-   I design experiences, not just interfaces — and build systems, not just code.
+   Building scalable applications, solving real-world problems, and creating impactful user experiences.
 </p>
 
 ---
 
 ### About Me
-- Second-year **Computer Science Engineering** student 🎓 
-- Passionate about **Backend Development + Product Thinking**  
-- UI/UX & **Product Designer** — focused on usability, aesthetics & user flow  
-- Building with **React, APIs, and scalable backend systems**  
-- Strong interest in **DSA, System Design, and Problem Solving**  
-- Exploring **AI-powered development & design workflows**  
+
+* Computer Science Engineering student 🎓
+* Passionate about **Software Development, Problem Solving, and Technology**
+* Building projects using **Java, Python, React, Django, and SQL**
+* Strong interest in **Data Structures & Algorithms, System Design, and Backend Development**
+* Exploring **Full Stack Development and AI-powered applications**
+* Continuously learning through projects, coding challenges, and hands-on development
 
 ---
 
-### Design Mindset
-> "Good design is invisible. Great design feels obvious."
+### Interests & Approach
 
-- User-Centered Design (UCD)  
-- Wireframing & Prototyping  
-- Low → High Fidelity Design Flow  
-- Design Systems & Consistency  
-- UX Research Basics  
-- Tools: **Figma, Canva, Notion**
+> "Great software combines clean code, thoughtful design, and real-world impact."
+
+* Full Stack Development
+* Backend Engineering
+* Data Structures & Algorithms
+* System Design Fundamentals
+* UI/UX Design & User-Centered Thinking
+* Product Thinking & Problem Solving
+* Tools: **Figma, Git, GitHub, VS Code, Postman**
 
 ---
 
 ### Tech Stack
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
 
-  <!-- Web -->
+<p align="center">
+
+  <!-- Languages -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
+
+  <!-- Frontend -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
 
   <!-- Backend -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
 
   <!-- Database -->
+
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55"/>
+
+  <!-- Tools -->
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
+
 </p>
 
 ---
 
 ### Core Skills
-- Backend Development: **Java, Django, REST APIs**  
-- Frontend: **React (Basics), HTML, CSS**  
-- UI/UX Design: **Wireframes, Prototypes, User Flows**  
-- Databases: **MySQL, SQL Workbench**  
-- Problem Solving & DSA  
-- System Design Fundamentals  
-- Version Control: **Git & GitHub**  
-- AI Tools: **ChatGPT, Gemini, Copilot**
+
+* Backend Development: **Java, Django, REST APIs**
+* Frontend Development: **React, HTML, CSS, JavaScript**
+* Databases: **MySQL, SQL**
+* Problem Solving & DSA
+* Object-Oriented Programming (OOP)
+* Version Control: **Git & GitHub**
+* UI/UX Design: **Wireframes, Prototypes, User Flows**
+* Product Thinking & User-Centered Design
+* AI Tools: **ChatGPT, Gemini, GitHub Copilot**
 
 ---
 
-### Currently Working On 🌱
-- Full Stack Projects  
-- Improving UI/UX case studies  
-- Strengthening DSA for placements  
-- Building real-world, scalable applications  
+### Currently Learning 🌱
+
+* Advanced Data Structures & Algorithms
+* Full Stack Development
+* System Design Fundamentals
+* Backend Architecture
+* AI-assisted Development Workflows
+ 
 
 ---
 
@@ -94,7 +115,6 @@
 
 ---
 
-### Portfolio
 <p align="center">
   <a href="https://Shreeja-88.github.io/personal-portfolio/">
     <img src="https://img.shields.io/badge/View%20My%20Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
@@ -120,7 +140,3 @@
 </p>
 
 ---
-
-<p align="center">
-  “Design + Code = Impact”
-</p>
