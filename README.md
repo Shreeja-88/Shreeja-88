@@ -8,6 +8,10 @@
 <p align="center">
    Building scalable applications, solving real-world problems, and creating impactful user experiences.
 </p>
+<p align="center">
+  <img src="profile.jpeg" width="30%"/>
+</p>
+
 
 ---
 
