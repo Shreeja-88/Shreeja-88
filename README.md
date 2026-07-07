@@ -1,110 +1,134 @@
 <!-- Profile README -->
 
-<h1 align="center">Hi, I'm Shreeja Hebbar 👋</h1>
+<h1 align="center">Shreeja Hebbar</h1>
+
 <p align="center">
-   Aspiring <strong>Software Engineer</strong> | <strong>Full Stack Developer</strong>
+  <strong>Aspiring Applied GenAI Engineer | Backend Engineer</strong>
 </p>
 
 <p align="center">
-   Building scalable applications, solving real-world problems, and creating impactful user experiences.
-</p>
-<p align="center">
-  <img src="profile.jpeg" width="30%"/>
+Building production-ready AI applications with modern software engineering practices.
 </p>
 
-
----
-
-### About Me
-
-* Computer Science Engineering student 🎓
-* Passionate about **Software Development, Problem Solving, and Technology**
-* Building projects using **Java, Python, React, Django, and SQL**
-* Strong interest in **Data Structures & Algorithms, System Design, and Backend Development**
-* Exploring **Full Stack Development and AI-powered applications**
-* Continuously learning through projects, coding challenges, and hands-on development
-
----
-
-### Interests & Approach
-
-> "Great software combines clean code, thoughtful design, and real-world impact."
-
-* Full Stack Development
-* Backend Engineering
-* Data Structures & Algorithms
-* System Design Fundamentals
-* UI/UX Design & User-Centered Thinking
-* Product Thinking & Problem Solving
-* Tools: **Figma, Git, GitHub, VS Code, Postman**
-
----
-
-### Tech Stack
-
 <p align="center">
-
-  <!-- Languages -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-
-  <!-- Frontend -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-
-  <!-- Backend -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="50"/>
-
-  <!-- Database -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="55"/>
-
-  <!-- Tools -->
-
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50"/>
-
+  <img src="profile.jpeg" width="28%">
 </p>
 
 ---
 
-### Core Skills
+## About Me
 
-* Backend Development: **Java, Django, REST APIs**
-* Frontend Development: **React, HTML, CSS, JavaScript**
-* Databases: **MySQL, SQL**
-* Problem Solving & DSA
-* Object-Oriented Programming (OOP)
-* Version Control: **Git & GitHub**
-* UI/UX Design: **Wireframes, Prototypes, User Flows**
-* Product Thinking & User-Centered Design
-* AI Tools: **ChatGPT, Gemini, GitHub Copilot**
+I am a Computer Science Engineering student with a strong interest in backend engineering and Applied Generative AI.
+
+My current focus is on building scalable backend systems and AI-powered applications while strengthening my software engineering fundamentals. I enjoy solving real-world problems through clean architecture, reliable APIs, and production-oriented development.
+
+I am currently preparing for Applied GenAI Engineer and Software Engineering roles by combining backend development, core computer science concepts, and modern Generative AI technologies.
 
 ---
 
-### Currently Learning 🌱
+## Current Focus
 
-* Advanced Data Structures & Algorithms
-* Full Stack Development
-* System Design Fundamentals
-* Backend Architecture
-* AI-assisted Development Workflows
- 
+I am currently learning and building projects in:
+
+- Python
+- FastAPI
+- REST API Development
+- PostgreSQL
+- Backend Architecture
+- Docker
+- Software Engineering Principles
+- Data Structures & Algorithms
+- Database Management Systems
+- Operating Systems
+- Computer Networks
+- System Design
+- Large Language Model Applications
+- AI Agents
+- Retrieval-Augmented Generation (RAG)
 
 ---
 
-### GitHub Stats
+## Technical Skills
+
+### Programming Languages
+
+- Python
+- C
+- Java
+
+### Backend Development
+
+- FastAPI
+- REST APIs
+- Authentication
+- API Design
+
+### Database
+
+- PostgreSQL
+- SQL
+
+### Software Engineering
+
+- Object-Oriented Programming
+- Data Structures & Algorithms
+- Git
+- GitHub
+- Docker
+- Backend Architecture
+
+### Generative AI
+
+Currently exploring and building with:
+
+- Large Language Models (LLMs)
+- AI Agents
+- Prompt Engineering
+- Retrieval-Augmented Generation (RAG)
+- Agentic AI Workflows
+
+
+<p align="center">
+
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
+
+<!-- Backend -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
+
+<!-- AI -->
+<img src="https://cdn.simpleicons.org/openai/412991" width="50"/>
+<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50"/>
+
+<!-- Tools -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+
+</p>
+
+---
+
+## Current Objectives
+
+- Build scalable backend applications using Python and FastAPI.
+- Develop production-ready AI applications powered by LLMs.
+- Strengthen problem-solving through Data Structures & Algorithms.
+- Master core computer science subjects, including DBMS, Operating Systems, Computer Networks, and System Design.
+- Contribute to open-source projects and continuously improve engineering practices.
+
+---
+
+## GitHub Statistics
+
 <p align="center">
   <a href="https://holopin.io/@shreeja88">
-    <img src="https://holopin.me/shreeja88" width="70%"/>
+    <img src="https://holopin.me/shreeja88" width="70%">
   </a>
 </p>
 
@@ -121,26 +145,25 @@
 
 <p align="center">
   <a href="https://Shreeja-88.github.io/personal-portfolio/">
-    <img src="https://img.shields.io/badge/View%20My%20Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-### Connect With Me
+## Connect
+
 <p align="center">
   <a href="https://www.linkedin.com/in/shreejahebbar676">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
   </a>
   <a href="mailto:hebbarshree855@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="45"/>
+    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/>
   </a>
   <a href="https://leetcode.com/ShreejaHebbar676">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="45"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
   </a>
   <a href="https://github.com/Shreeja-88">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
   </a>
 </p>
-
----
