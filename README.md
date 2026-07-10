@@ -1,169 +1,248 @@
-<!-- Profile README -->
+<!-- ========================================================= -->
+<!--                     GitHub Profile README                  -->
+<!-- ========================================================= -->
 
-<h1 align="center">Shreeja Hebbar</h1>
+<h1 align="center">Hi, I'm Shreeja Hebbar 👋</h1>
+
+<h3 align="center">
+Java Backend Developer | Computer Science Engineering Student | Spring Boot Enthusiast
+</h3>
 
 <p align="center">
-  <strong>Aspiring Applied GenAI Engineer | Backend Engineer</strong>
+Building scalable backend systems with Java, Spring Boot, Microservices, and modern software engineering practices.
 </p>
 
 <p align="center">
-Building production-ready AI applications with modern software engineering practices.
-</p>
+<a href="https://github.com/Shreeja-88">
+<img src="https://komarev.com/ghpvc/?username=Shreeja-88&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
 
-<p align="center">
-  <img src="profile.jpeg" width="28%">
+<img src="https://img.shields.io/github/followers/Shreeja-88?label=Followers&style=flat"/>
+
+<img src="https://img.shields.io/github/stars/Shreeja-88?affiliations=OWNER&style=flat"/>
 </p>
 
 ---
 
 ## About Me
 
-I am a Computer Science Engineering student with a strong interest in backend engineering and Applied Generative AI.
+Computer Science Engineering Student at **The National Institute of Engineering (NIE), Mysuru** 🎓 
 
-My current focus is on building scalable backend systems and AI-powered applications while strengthening my software engineering fundamentals. I enjoy solving real-world problems through clean architecture, reliable APIs, and production-oriented development.
+Passionate about **Backend Engineering** and **Software Development**
 
-I am currently preparing for Applied GenAI Engineer and Software Engineering roles by combining backend development, core computer science concepts, and modern Generative AI technologies.
+Currently focused on mastering the Java Backend ecosystem.
+
+I enjoy building scalable applications, solving real-world problems, and continuously improving my engineering skills.
 
 ---
 
-## Current Focus
+## Currently Learning
 
-I am currently learning and building projects in:
-
-- Python
-- FastAPI
-- REST API Development
-- PostgreSQL
-- Backend Architecture
+- Core Java
+- Spring Framework
+- Spring Boot
+- REST APIs
+- Hibernate & Spring Data JPA
+- Spring Security
+- JWT Authentication
+- OAuth2
+- Apache Kafka
 - Docker
-- Software Engineering Principles
-- Data Structures & Algorithms
+- Cloud Deployment
+- Linux
+- Jenkins
+- Terraform
+- Spring AI
+
+---
+
+## Also Practicing
+
+- Data Structures & Algorithms (Java)
 - Database Management Systems
 - Operating Systems
 - Computer Networks
-- System Design
-- Large Language Model Applications
-- AI Agents
-- Retrieval-Augmented Generation (RAG)
-
----
-
-## Technical Skills
-
-### Programming Languages
-
-- Python
-- C
-- Java
-
-### Backend Development
-
-- FastAPI
-- REST APIs
-- Authentication
-- API Design
-
-### Database
-
-- PostgreSQL
-- SQL
-
-### Software Engineering
-
 - Object-Oriented Programming
-- Data Structures & Algorithms
-- Git
-- GitHub
-- Docker
-- Backend Architecture
+- System Design
 
-### Generative AI
+---
 
-Currently exploring and building with:
+# Tech Stack
 
-- Large Language Models (LLMs)
-- AI Agents
-- Prompt Engineering
-- Retrieval-Augmented Generation (RAG)
-- Agentic AI Workflows
+## Languages
 
+<p>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=java" />
 
-<!-- Languages -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="50" />
+<img src="https://skillicons.dev/icons?i=python" />
 
-<!-- Backend -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" />
-
-<!-- AI -->
-<img src="https://cdn.simpleicons.org/openai/412991" width="50"/>
-<img src="https://cdn.simpleicons.org/googlegemini/8E75B2" width="50"/>
-
-<!-- Tools -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="50" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="50" />
+<img src="https://skillicons.dev/icons?i=c" />
 
 </p>
 
 ---
 
-## Current Objectives
+## Backend Development
 
-- Build scalable backend applications using Python and FastAPI.
-- Develop production-ready AI applications powered by LLMs.
-- Strengthen problem-solving through Data Structures & Algorithms.
-- Master core computer science subjects, including DBMS, Operating Systems, Computer Networks, and System Design.
-- Contribute to open-source projects and continuously improve engineering practices.
+<p>
 
----
+<img src="https://skillicons.dev/icons?i=spring" />
 
-## GitHub Statistics
+<img src="https://skillicons.dev/icons?i=maven" />
 
-<p align="center">
-  <a href="https://holopin.io/@shreeja88">
-    <img src="https://holopin.me/shreeja88" width="70%">
-  </a>
-</p>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shreeja-88&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shreeja-88&theme=github_dark" />
-</p>
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreeja-88&theme=github_dark" />
+<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
+
+<img src="https://img.shields.io/badge/OAuth2-green?style=for-the-badge"/>
+
 </p>
 
 ---
 
-<p align="center">
-  <a href="https://Shreeja-88.github.io/personal-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-1E90FF?style=for-the-badge&logo=google-chrome&logoColor=white"/>
-  </a>
+## Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql" />
+
+<img src="https://skillicons.dev/icons?i=postgres" />
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+
 </p>
 
 ---
 
-## Connect
+## DevOps & Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git" />
+
+<img src="https://skillicons.dev/icons?i=github" />
+
+<img src="https://skillicons.dev/icons?i=docker" />
+
+<img src="https://skillicons.dev/icons?i=linux" />
+
+<img src="https://skillicons.dev/icons?i=jenkins" />
+
+<img src="https://skillicons.dev/icons?i=terraform" />
+
+<img src="https://skillicons.dev/icons?i=postman" />
+
+<img src="https://skillicons.dev/icons?i=vscode" />
+
+<img src="https://skillicons.dev/icons?i=idea" />
+
+</p>
+
+---
+
+## Cloud & Architecture
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+<img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka"/>
+
+<img src="https://img.shields.io/badge/System_Design-orange?style=for-the-badge"/>
+
+</p>
+
+---
+
+# GitHub Analytics
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/shreejahebbar676">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
-  </a>
-  <a href="mailto:hebbarshree855@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" width="40"/>
-  </a>
-  <a href="https://leetcode.com/ShreejaHebbar676">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="40"/>
-  </a>
-  <a href="https://github.com/Shreeja-88">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
-  </a>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreeja-88&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Shreeja-88&theme=github-dark&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreeja-88&theme=github_dark"/>
+
+</p>
+
+---
+
+# Achievements
+
+<p align="center">
+
+<a href="https://holopin.io/@shreeja88">
+
+<img src="https://holopin.me/shreeja88"/>
+
+</a>
+
+</p>
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://shreeja-88.github.io/personal-portfolio/">
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+<a href="https://www.linkedin.com/in/shreejahebbar676">
+
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="mailto:hebbarshree855@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+
+</a>
+
+<a href="https://leetcode.com/ShreejaHebbar676">
+
+<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+
+</a>
+
+<a href="https://github.com/Shreeja-88">
+
+<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
+
+<h3 align="center">
+Thanks for visiting my profile!
+</h3>
+
+<p align="center">
+<i>"Code. Learn. Build. Repeat."</i>
 </p>
