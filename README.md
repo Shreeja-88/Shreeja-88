@@ -1,248 +1,148 @@
-<!-- ========================================================= -->
-<!--                     GitHub Profile README                  -->
-<!-- ========================================================= -->
+<table>
+<tr>
 
-<h1 align="center">Hi, I'm Shreeja Hebbar 👋</h1>
+<td width="38%" valign="top">
 
-<h3 align="center">
-Java Backend Developer | Computer Science Engineering Student | Spring Boot Enthusiast
-</h3>
+<pre>
+=.........................................................=
+=                     .:*%@@@@@@@@%#:.                    =
+=                 ..:#@@@@@@@@@@@@@@@@%:..                =
+=               ..=%@@@@@%##**#%%@@@@@@@@+...             =
+=               :%@@@@%#********#%%%@@%@@@@=..            =
+=              .%@@@@%*++=======+++*#%%@@@@@*.            =
+=            ..#@@@@%*+===-==========*#%@@@@@=.           =
+=           ...@@@@%*+==------------==+#%@@@@@=..         =
+=          ...=@@@@*++==-------------==+#@@@@@#:.         =
+=          ..-@@@@#+++==--------------=++#@@@@@:.         =
+=          .+@@@@@**#*****+=----=+*#******%@@@%..         =
+=        ..#@@@@@%+++*#%**++=--=+**###*+++#@@@@#...       =
+=        .%@@%*%@*++**+#+=++=--====+#=**++*@@%*@+...      =
+=        +%@@#+=**===========--=======--==+#=+*@@-.       =
+=       .%#@@%*+**==------==+=====-------=+=*+*@@%-.      =
+=     ..-%*@@@+++*==--::--++=-:-==--:::--=*++#@@%%#..     =
+=    ...-%#@@@@*+*+=-----==**++++-------+++=*@@@@@%#..    =
+=    ...:**@@@@%**++===========---=====++%@@@@@@@@@%%..   =
+=   .....=@@@@@@@@%+==-=+###**+*###*===+*@@@@@@@@%@@%*..  =
+=   .. ..:#@@@@@@@@%+====++=========+++*@@@@@@@@@@@@@@=:..=
+=   ....=%@@@@@@@@@@@#++============+*#@@@@@@@@@@@@@@@-*..=
+=   ..:*@@@@@@@@@@@@@@%#+==-------=**+%@@@@@@@@@%@@@@%-.:==
+=  ..:=%@@@@@@@@@@@@@@@*****++++**+==+@@@@@@@@@@%@@@@*:..-*
+=   ..+#@@@@@@@@@@@@@@@#*++++++++====+@@@@@@@@@@@@@%@#. ..#
+= ...=+#%@@@@@@@@@%@@@@%*+===========+*@@@@@@@@@@@@@@%:...+
++==..:*%%%@@%@@@@%#%@%%#*++===========+@@%@@@@@@@@@@@@@@#:+
+%%%%@@@@@@@@@@@@@%%%@%###*++==========+%@%%@%%@@%%@@@@@@@%@
+@@@%@@@%@@@@@@@@@@@@@#***+==========--+@%%%@@%%%@@%@%%%%%%@
+@@%@@@@@@@@@@@@@@@@@@*=++=-----------=*@%%%%%@%%%@%%%%%%%%@
+@@%@@@@@@@@@@@@@@@@@%+++==-------==-==#%%%%%@%%%%%@%@%%%%%@
+@%@@@@@@@@@@@@@@@@@%@+=--------------=@%%%%%%%%%%%@@%%%%%%@
+</pre>
+
+</td>
+
+<td width="62%" valign="top">
+
+<pre>
+shreeja@github:~$
+
+OS          : Windows 11
+College     : The National Institute of Engineering
+Location    : Karnataka, India
+
+Languages   : Java, Python, SQL
+
+Backend     : Spring Boot
+              Hibernate
+              Spring Data JPA
+              REST APIs
+
+Database    : PostgreSQL, MySQL, MongoDB
+
+Tools       : Git, Maven
+              Gradle, Docker
+              Linux
+              Eclipse, VS Code
+
+Learning    : Spring Security
+              JWT, Kafka, Microservices
+              Spring AI
+
+Core CS     : DSA, DBMS
+              Operating Systems
+              Computer Networks
+              System Design
+
+Goal        : Software Engineer
+</pre>
+
+</td>
+
+</tr>
+</table>
+
+## Tech Stack
 
 <p align="center">
-Building scalable backend systems with Java, Spring Boot, Microservices, and modern software engineering practices.
+<img src="https://skillicons.dev/icons?i=java,python,c,spring,maven,git,docker,linux,mysql,postgres,mongodb,idea,vscode,postman" />
 </p>
 
 <p align="center">
-<a href="https://github.com/Shreeja-88">
-<img src="https://komarev.com/ghpvc/?username=Shreeja-88&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</a>
-
-<img src="https://img.shields.io/github/followers/Shreeja-88?label=Followers&style=flat"/>
-
-<img src="https://img.shields.io/github/stars/Shreeja-88?affiliations=OWNER&style=flat"/>
-</p>
-
----
-
-## About Me
-
-Computer Science Engineering Student at **The National Institute of Engineering (NIE), Mysuru** 🎓 
-
-Passionate about **Backend Engineering** and **Software Development**
-
-Currently focused on mastering the Java Backend ecosystem.
-
-I enjoy building scalable applications, solving real-world problems, and continuously improving my engineering skills.
-
----
-
-## Currently Learning
-
-- Core Java
-- Spring Framework
-- Spring Boot
-- REST APIs
-- Hibernate & Spring Data JPA
-- Spring Security
-- JWT Authentication
-- OAuth2
-- Apache Kafka
-- Docker
-- Cloud Deployment
-- Linux
-- Jenkins
-- Terraform
-- Spring AI
-
----
-
-## Also Practicing
-
-- Data Structures & Algorithms (Java)
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Object-Oriented Programming
-- System Design
-
----
-
-# Tech Stack
-
-## Languages
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=java" />
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-<img src="https://skillicons.dev/icons?i=c" />
-
-</p>
-
----
-
-## Backend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=spring" />
-
-<img src="https://skillicons.dev/icons?i=maven" />
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
-
 <img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-
-<img src="https://img.shields.io/badge/OAuth2-green?style=for-the-badge"/>
-
-</p>
-
----
-
-## Databases
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql" />
-
-<img src="https://skillicons.dev/icons?i=postgres" />
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-
-</p>
-
----
-
-## DevOps & Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git" />
-
-<img src="https://skillicons.dev/icons?i=github" />
-
-<img src="https://skillicons.dev/icons?i=docker" />
-
-<img src="https://skillicons.dev/icons?i=linux" />
-
-<img src="https://skillicons.dev/icons?i=jenkins" />
-
-<img src="https://skillicons.dev/icons?i=terraform" />
-
-<img src="https://skillicons.dev/icons?i=postman" />
-
-<img src="https://skillicons.dev/icons?i=vscode" />
-
-<img src="https://skillicons.dev/icons?i=idea" />
-
-</p>
-
----
-
-## Cloud & Architecture
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=aws"/>
-
-<img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-
-<img src="https://img.shields.io/badge/System_Design-orange?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/Microservices-0052CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge"/>
 </p>
 
----
-
-# GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
-
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Shreeja-88&show_icons=true&theme=github_dark&hide_border=true"/>
-
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&theme=github_dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shreeja-88&theme=github-dark&hide_border=true"/>
-
 </p>
 
 <p align="center">
-
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreeja-88&theme=github_dark"/>
-
 </p>
 
----
-
-# Achievements
+## Achievements
 
 <p align="center">
-
 <a href="https://holopin.io/@shreeja88">
-
 <img src="https://holopin.me/shreeja88"/>
-
 </a>
-
 </p>
 
----
-
-# Connect With Me
+## Connect
 
 <p align="center">
 
 <a href="https://shreeja-88.github.io/personal-portfolio/">
-
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
-
+<img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel"/>
 </a>
 
 <a href="https://www.linkedin.com/in/shreejahebbar676">
-
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:hebbarshree855@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-
+<img src="https://img.shields.io/badge/Gmail-Email-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
 <a href="https://leetcode.com/ShreejaHebbar676">
-
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-
+<img src="https://img.shields.io/badge/LeetCode-Profile-F89F1B?style=for-the-badge&logo=leetcode"/>
 </a>
 
 <a href="https://github.com/Shreeja-88">
-
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
 
----
-
-<h3 align="center">
-Thanks for visiting my profile!
-</h3>
-
 <p align="center">
-<i>"Code. Learn. Build. Repeat."</i>
+<b>Code • Learn • Build • Repeat</b>
 </p>
