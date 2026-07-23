@@ -90,6 +90,7 @@ I enjoy building scalable applications, solving real-world problems, and continu
 <img src="https://skillicons.dev/icons?i=spring" />
 
 <img src="https://skillicons.dev/icons?i=maven" />
+<img src="https://skillicons.dev/icons?i=gradle" />
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 
