@@ -1,15 +1,11 @@
-<!-- ========================================================= -->
-<!--                     GitHub Profile README                  -->
-<!-- ========================================================= -->
-
 <h1 align="center">Hi, I'm Shreeja Hebbar 👋</h1>
 
 <h3 align="center">
-Java Backend Developer | Computer Science Engineering Student | Spring Boot Enthusiast
+Full Stack Developer | Java Backend Developer | Computer Science Engineering Student
 </h3>
 
 <p align="center">
-Building scalable backend systems with Java, Spring Boot, Microservices, and modern software engineering practices.
+Building full-stack applications with Java, Spring Boot, React, Node.js, and modern web technologies.
 </p>
 
 <p align="center">
@@ -26,44 +22,72 @@ Building scalable backend systems with Java, Spring Boot, Microservices, and mod
 
 ## About Me
 
-Computer Science Engineering Student at **The National Institute of Engineering (NIE), Mysuru** 🎓 
+Computer Science Engineering Student at **The National Institute of Engineering (NIE), Mysuru** 🎓
 
-Passionate about **Backend Engineering** and **Software Development**
+I'm a **Full Stack Developer** with a strong interest in **Java Backend Development** and the **MERN Stack**.
 
-Currently focused on mastering the Java Backend ecosystem.
+I enjoy building scalable web applications, developing REST APIs, working with databases, and solving real-world problems through software.
 
-I enjoy building scalable applications, solving real-world problems, and continuously improving my engineering skills.
+Currently strengthening my skills in **Spring Boot, React, Node.js, databases, REST APIs, and software engineering fundamentals**.
 
 ---
 
-## Currently Learning
+## What I Work With
 
-- Core Java
-- Spring Framework
-- Spring Boot
-- REST APIs
-- Hibernate & Spring Data JPA
-- Spring Security
-- JWT Authentication
-- OAuth2
-- Apache Kafka
-- Docker
-- Cloud Deployment
-- Linux
-- Jenkins
-- Terraform
-- Spring AI
+### Java Backend Development
+
+* Core Java
+* Object-Oriented Programming
+* Spring Framework
+* Spring Boot
+* REST APIs
+* Hibernate
+* Spring Data JPA
+* Maven
+* Authentication & Authorization
+* JWT
+* MySQL
+* PostgreSQL
+
+### MERN Stack Development
+
+* MongoDB
+* Express.js
+* React.js
+* Node.js
+* REST APIs
+* JavaScript
+* HTML5
+* CSS3
+
+---
+
+## Currently Learning & Improving
+
+* Advanced Spring Boot
+* Spring Security
+* JWT Authentication
+* React.js
+* Node.js & Express.js
+* REST API Design
+* Database Design
+* Data Structures & Algorithms
+* System Design
+* Docker
+* Cloud & Deployment
 
 ---
 
 ## Also Practicing
 
-- Data Structures & Algorithms (Java)
-- Database Management Systems
-- Operating Systems
-- Computer Networks
-- Object-Oriented Programming
-- System Design
+* Data Structures & Algorithms
+* Database Management Systems
+* Operating Systems
+* Computer Networks
+* Object-Oriented Programming
+* Software Engineering
+* System Design
+* Problem Solving
 
 ---
 
@@ -74,35 +98,53 @@ I enjoy building scalable applications, solving real-world problems, and continu
 <p>
 
 <img src="https://skillicons.dev/icons?i=java" />
-
+<img src="https://skillicons.dev/icons?i=javascript" />
 <img src="https://skillicons.dev/icons?i=python" />
-
 <img src="https://skillicons.dev/icons?i=c" />
 
 </p>
 
 ---
 
-## Backend Development
+## Frontend
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=html" />
+<img src="https://skillicons.dev/icons?i=css" />
+<img src="https://skillicons.dev/icons?i=javascript" />
+
+</p>
+
+---
+
+## Java Backend
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=spring" />
-
 <img src="https://skillicons.dev/icons?i=maven" />
-<img src="https://skillicons.dev/icons?i=gradle" />
+<img src="https://skillicons.dev/icons?i=hibernate" />
 
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate"/>
-
-<img src="https://img.shields.io/badge/Spring_Data_JPA-6DB33F?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
 
-<img src="https://img.shields.io/badge/OAuth2-green?style=for-the-badge"/>
+</p>
+
+---
+
+## MERN Stack
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mongodb" />
+<img src="https://skillicons.dev/icons?i=express" />
+<img src="https://skillicons.dev/icons?i=react" />
+<img src="https://skillicons.dev/icons?i=nodejs" />
 
 </p>
 
@@ -113,35 +155,23 @@ I enjoy building scalable applications, solving real-world problems, and continu
 <p>
 
 <img src="https://skillicons.dev/icons?i=mysql" />
-
 <img src="https://skillicons.dev/icons?i=postgres" />
-
 <img src="https://skillicons.dev/icons?i=mongodb" />
 
 </p>
 
 ---
 
-## DevOps & Tools
+## Tools & DevOps
 
 <p>
 
 <img src="https://skillicons.dev/icons?i=git" />
-
 <img src="https://skillicons.dev/icons?i=github" />
-
 <img src="https://skillicons.dev/icons?i=docker" />
-
 <img src="https://skillicons.dev/icons?i=linux" />
-
-<img src="https://skillicons.dev/icons?i=jenkins" />
-
-<img src="https://skillicons.dev/icons?i=terraform" />
-
 <img src="https://skillicons.dev/icons?i=postman" />
-
 <img src="https://skillicons.dev/icons?i=vscode" />
-
 <img src="https://skillicons.dev/icons?i=idea" />
 
 </p>
@@ -152,20 +182,19 @@ I enjoy building scalable applications, solving real-world problems, and continu
 
 <p>
 
-<img src="https://skillicons.dev/icons?i=aws"/>
+<img src="https://skillicons.dev/icons?i=aws" />
+
+<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/System%20Design-orange?style=for-the-badge"/>
 
 <img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka"/>
-
-<img src="https://img.shields.io/badge/System_Design-orange?style=for-the-badge"/>
 
 </p>
 
 ---
 
 # GitHub Analytics
-
 
 <p align="center">
 
@@ -194,33 +223,23 @@ I enjoy building scalable applications, solving real-world problems, and continu
 <p align="center">
 
 <a href="https://shreeja-88.github.io/personal-portfolio/">
-
 <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
-
 </a>
 
 <a href="https://www.linkedin.com/in/shreejahebbar676">
-
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-
 </a>
 
 <a href="mailto:hebbarshree855@gmail.com">
-
 <img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
-
 </a>
 
 <a href="https://leetcode.com/ShreejaHebbar676">
-
 <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-
 </a>
 
 <a href="https://github.com/Shreeja-88">
-
 <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-
 </a>
 
 </p>
@@ -232,5 +251,5 @@ Thanks for visiting my profile!
 </h3>
 
 <p align="center">
-<i>"Code. Learn. Build. Repeat."</i>
+<i>"Build. Learn. Solve. Repeat."</i>
 </p>
