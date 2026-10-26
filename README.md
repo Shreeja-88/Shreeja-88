@@ -1,255 +1,182 @@
-<h1 align="center">Hi, I'm Shreeja Hebbar 👋</h1>
+<!-- ═══════════════════ RETRO NEON PROFILE ═══════════════════ -->
 
-<h3 align="center">
-Full Stack Developer | Java Backend Developer | Computer Science Engineering Student
-</h3>
+<div align="center">
 
-<p align="center">
-Building full-stack applications with Java, Spring Boot, React, Node.js, and modern web technologies.
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0b0b10,50:21172b,100:bd719e&height=8&section=header" />
 
-<p align="center">
+<br/>
+
 <a href="https://github.com/Shreeja-88">
-<img src="https://komarev.com/ghpvc/?username=Shreeja-88&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=500&size=27&duration=3000&pause=1000&color=E9B5DC&center=true&vCenter=true&width=600&height=45&lines=Hi%2C+I'm+Shreeja+Hebbar+%E2%9C%A8;Full+Stack+Developer;Java+Backend+Developer;Building+things+that+matter." alt="Typing introduction" />
 </a>
 
-<img src="https://img.shields.io/github/followers/Shreeja-88?label=Followers&style=flat"/>
-
-<img src="https://img.shields.io/github/stars/Shreeja-88?affiliations=OWNER&style=flat"/>
+<p>
+  <samp>Computer Science Engineering Student · NIE Mysuru</samp>
 </p>
-
----
-
-## About Me
-
-Computer Science Engineering Student at **The National Institute of Engineering (NIE), Mysuru** 🎓
-
-I'm a **Full Stack Developer** with a strong interest in **Java Backend Development** and the **MERN Stack**.
-
-I enjoy building scalable web applications, developing REST APIs, working with databases, and solving real-world problems through software.
-
-Currently strengthening my skills in **Spring Boot, React, Node.js, databases, REST APIs, and software engineering fundamentals**.
-
----
-
-## What I Work With
-
-### Java Backend Development
-
-* Core Java
-* Object-Oriented Programming
-* Spring Framework
-* Spring Boot
-* REST APIs
-* Hibernate
-* Spring Data JPA
-* Maven
-* Authentication & Authorization
-* JWT
-* MySQL
-* PostgreSQL
-
-### MERN Stack Development
-
-* MongoDB
-* Express.js
-* React.js
-* Node.js
-* REST APIs
-* JavaScript
-* HTML5
-* CSS3
-
----
-
-## Currently Learning & Improving
-
-* Advanced Spring Boot
-* Spring Security
-* JWT Authentication
-* React.js
-* Node.js & Express.js
-* REST API Design
-* Database Design
-* Data Structures & Algorithms
-* System Design
-* Docker
-* Cloud & Deployment
-
----
-
-## Also Practicing
-
-* Data Structures & Algorithms
-* Database Management Systems
-* Operating Systems
-* Computer Networks
-* Object-Oriented Programming
-* Software Engineering
-* System Design
-* Problem Solving
-
----
-
-# Tech Stack
-
-## Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=java" />
-<img src="https://skillicons.dev/icons?i=javascript" />
-<img src="https://skillicons.dev/icons?i=python" />
-<img src="https://skillicons.dev/icons?i=c" />
-
+  <a href="https://github.com/Shreeja-88?tab=followers">
+    <img src="https://img.shields.io/github/followers/Shreeja-88?style=flat-square&color=bb86fc&labelColor=101014&label=followers" alt="Followers" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=Shreeja-88&style=flat-square&color=e9a6d2&labelColor=101014&label=profile+views" alt="Profile views" />
+  <a href="https://github.com/Shreeja-88?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-bb86fc?style=flat-square&labelColor=101014" alt="Repositories" />
+  </a>
 </p>
+
+<br/>
+
+<img width="85%" src="https://capsule-render.vercel.app/api?type=venom&height=130&text=%3E_%20Hello%2C%20World&fontSize=34&fontColor=E9B5DC&stroke=bb86fc&strokeWidth=1&animation=fadeIn&color=0:101014,100:24152b" alt="Hello World banner" />
+
+<sub><code>while (learning) { build(); solve(); repeat(); }</code></sub>
+
+<br/>
+
+</div>
 
 ---
 
-## Frontend
+### whoami
 
-<p>
+```java
+public class Shreeja {
 
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=html" />
-<img src="https://skillicons.dev/icons?i=css" />
-<img src="https://skillicons.dev/icons?i=javascript" />
+    static String role = "Full Stack Developer";
+    static String focus = "Java Backend Development";
 
-</p>
+    static String[] interests = {
+        "Backend Engineering",
+        "REST API Development",
+        "Full Stack Applications",
+        "Problem Solving"
+    };
 
----
+    static String currentlyLearning =
+        "Spring Boot • React • DSA • System Design";
+}
+```
 
-## Java Backend
+I'm a Computer Science Engineering student at **The National Institute of Engineering (NIE), Mysuru**, passionate about building useful software and understanding how things work behind the scenes.
 
-<p>
+I enjoy designing backend systems, building REST APIs, working with databases, and creating full-stack applications. I'm continuously learning, experimenting, and turning ideas into working projects.
 
-<img src="https://skillicons.dev/icons?i=spring" />
-<img src="https://skillicons.dev/icons?i=maven" />
-<img src="https://skillicons.dev/icons?i=hibernate" />
-
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/REST_API-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens"/>
-
-</p>
-
----
-
-## MERN Stack
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mongodb" />
-<img src="https://skillicons.dev/icons?i=express" />
-<img src="https://skillicons.dev/icons?i=react" />
-<img src="https://skillicons.dev/icons?i=nodejs" />
-
-</p>
+- `01` — Building with Java, Spring Boot and modern web technologies.
+- `02` — Exploring backend architecture, databases and API design.
+- `03` — Practicing DSA and strengthening computer science fundamentals.
+- `04` — Learning by building, debugging and contributing.
 
 ---
 
-## Databases
+### tech.exe
 
-<p>
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=mysql" />
-<img src="https://skillicons.dev/icons?i=postgres" />
-<img src="https://skillicons.dev/icons?i=mongodb" />
+**LANGUAGES**
 
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,js,c&theme=dark" alt="Java, Python, JavaScript and C" />
 
----
+<br/><br/>
 
-## Tools & DevOps
+**FRONTEND**
 
-<p>
+<img src="https://skillicons.dev/icons?i=react,html,css,vite&theme=dark" alt="React, HTML, CSS and Vite" />
 
-<img src="https://skillicons.dev/icons?i=git" />
-<img src="https://skillicons.dev/icons?i=github" />
-<img src="https://skillicons.dev/icons?i=docker" />
-<img src="https://skillicons.dev/icons?i=linux" />
-<img src="https://skillicons.dev/icons?i=postman" />
-<img src="https://skillicons.dev/icons?i=vscode" />
-<img src="https://skillicons.dev/icons?i=idea" />
+<br/><br/>
 
-</p>
+**BACKEND & DATABASES**
 
----
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,mongodb,mysql,postgres&theme=dark" alt="Spring, Node.js, Express, MongoDB, MySQL and PostgreSQL" />
 
-## Cloud & Architecture
+<br/><br/>
 
-<p>
+**TOOLS & INFRASTRUCTURE**
 
-<img src="https://skillicons.dev/icons?i=aws" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman,vscode,idea,aws&theme=dark" alt="Git, GitHub, Docker, Linux, Postman, VS Code, IntelliJ IDEA and AWS" />
 
-<img src="https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/System%20Design-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Microservices-blue?style=for-the-badge"/>
-
-</p>
+</div>
 
 ---
 
-# GitHub Analytics
+### github.exe
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreeja-88&theme=github_dark"/>
+<img width="96%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shreeja-88&theme=github_dark" alt="GitHub contribution summary" />
 
-</p>
+<br/><br/>
+
+<a href="https://github.com/Shreeja-88">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Shreeja-88&show_icons=true&hide_border=true&bg_color=0d1117&title_color=e9b5dc&icon_color=bb86fc&text_color=c9d1d9&rank_icon=github" alt="GitHub statistics" />
+</a>
+
+<a href="https://github.com/Shreeja-88">
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shreeja-88&layout=compact&hide_border=true&bg_color=0d1117&title_color=e9b5dc&text_color=c9d1d9&langs_count=6" alt="Most used languages" />
+</a>
+
+<br/><br/>
+
+<img width="96%" src="https://streak-stats.demolab.com?user=Shreeja-88&theme=dark&hide_border=true&background=0D1117&ring=BB86FC&fire=E9B5DC&currStreakLabel=E9B5DC&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+
+</div>
 
 ---
 
-# Achievements
+### currently.exe
 
-<p align="center">
+```text
+[ learning ]   Spring Boot · Spring Security · System Design
+[ building ]   Backend APIs · Full Stack Applications
+[ practicing ] Data Structures & Algorithms
+[ exploring ]  Docker · Cloud · Deployment
+```
+
+---
+
+### achievements.log
+
+<div align="center">
 
 <a href="https://holopin.io/@shreeja88">
-
-<img src="https://holopin.me/shreeja88"/>
-
+  <img width="80%" src="https://holopin.me/shreeja88" alt="Holopin badges and achievements" />
 </a>
 
-</p>
+<br/><br/>
+
+<a href="https://github.com/Shreeja-88?tab=repositories">
+  <img src="https://img.shields.io/badge/01-Explore%20my%20projects-bb86fc?style=for-the-badge&labelColor=101014" alt="Explore projects" />
+</a>
+
+</div>
 
 ---
 
-# Connect With Me
+### let's build something.
 
-<p align="center">
+<div align="center">
 
 <a href="https://shreeja-88.github.io/personal-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Portfolio-101014?style=for-the-badge&logo=vercel&logoColor=e9b5dc" alt="Portfolio" />
 </a>
-
 <a href="https://www.linkedin.com/in/shreejahebbar676">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-101014?style=for-the-badge&logo=linkedin&logoColor=bb86fc" alt="LinkedIn" />
 </a>
-
 <a href="mailto:hebbarshree855@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Email-red?style=for-the-badge&logo=gmail"/>
+  <img src="https://img.shields.io/badge/Email-101014?style=for-the-badge&logo=gmail&logoColor=e9b5dc" alt="Email" />
 </a>
-
 <a href="https://leetcode.com/ShreejaHebbar676">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+  <img src="https://img.shields.io/badge/LeetCode-101014?style=for-the-badge&logo=leetcode&logoColor=bb86fc" alt="LeetCode" />
 </a>
 
-<a href="https://github.com/Shreeja-88">
-<img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github"/>
-</a>
+<br/><br/>
 
-</p>
+<sub><code>Thanks for scrolling this far.</code></sub>
 
----
+<br/>
 
-<h3 align="center">
-Thanks for visiting my profile!
-</h3>
+<samp>Build something. Break something. Learn something.</samp>
 
-<p align="center">
-<i>"Build. Learn. Solve. Repeat."</i>
-</p>
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:bd719e,50:21172b,100:0b0b10&height=8&section=footer" />
+
+</div>
